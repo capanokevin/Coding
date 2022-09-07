@@ -1,2 +1,2 @@
-# Text Mining, XAI ...
-Algoritmi di words embedding e explainable AI.
+# Text Mining and Explainable AI
+Words embedding algorithm and explainable AI.
